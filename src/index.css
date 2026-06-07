@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Dark mode support */
+@custom-variant dark (&:where(.dark, .dark *));
+
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+}
