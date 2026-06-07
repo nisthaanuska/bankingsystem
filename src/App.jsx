@@ -7,7 +7,7 @@ import {
   Wallet,
   BriefcaseBusiness,
 } from "lucide-react";
-
+// gfg
 export default function App() {
   const [darkMode, setDarkMode] = useState(false);
 
